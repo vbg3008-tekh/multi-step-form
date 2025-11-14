@@ -7,7 +7,7 @@ export default function App() {
     email: "",
     phoneNo: "",
   });
-  const [section, setSection] = useState("first");
+  const [section, setSection] = useState("second");
 
   return (
     <div className="App min-h-screen flex items-center justify-center bg-gray-50 p-6">
